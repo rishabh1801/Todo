@@ -40,7 +40,6 @@ A lightweight and interactive **TODO list application** built with **HTML** and 
 
 This project is purely focused on **JavaScript functionality** and **does not include CSS styling**. If you'd like to enhance its appearance, feel free to add your own custom CSS. Styling the application (e.g., adding a container box, colors, and fonts) is a great way to make it your own! 🎨✨  
 
----
 
 💡 *Feel free to contribute to this project by suggesting or implementing new features!* 😊  
 
