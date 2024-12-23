@@ -1,6 +1,6 @@
 # 📝 TODO List Application  
 
-A lightweight and interactive **TODO list application** built with **HTML** and **JavaScript**. Manage your tasks effortlessly with this simple yet effective project! 🚀  
+A lightweight and interactive **TODO list application** built with **HTML** and **JavaScript**. Manage tasks effortlessly with this simple yet effective project! 🚀  
 
 ---
 
